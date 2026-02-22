@@ -131,6 +131,11 @@ The application will be accessible at `http://localhost:3000`.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the MIT License.
 
-## Architected and developed by Bipul Das.
+---
+
+### 👨‍💻 Author
+Created by **Bipul Das**.  
+[GitHub](https://github.com/Bipul-Das) • [LinkedIn](https://linkedin.com/in/bipuldas-cse)  
+
