@@ -135,7 +135,8 @@ This project is licensed under the MIT License.
 
 ---
 
-### 👨‍💻 Author
+## 👨‍💻 Author
+
 Created by **Bipul Das**.  
 [GitHub](https://github.com/Bipul-Das) • [LinkedIn](https://linkedin.com/in/bipuldas-cse)  
 
